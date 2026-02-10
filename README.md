@@ -79,16 +79,6 @@ After completing this project, you will:
 - Know how Java achieves platform independence
 - Be confident in setting up a Java environment
 - Be better prepared for interviews and academics
-
 ---
 
-## 👤 Author
-
-**Pawan Bhandari**  
-B.Tech – Information Technology  
-
----
-
-## 📜 License
-
-This project is intended for educational use.
+![alt text](image-1.png)
