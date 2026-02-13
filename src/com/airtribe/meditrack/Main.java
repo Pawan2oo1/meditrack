@@ -24,16 +24,16 @@ public class Main {
         while (true) {
             System.out.println("\n" + "=".repeat(50));
             System.out.println("🎯 MAIN MENU");
-            System.out.println("1. 👨‍⚕️  Add Doctor");
-            System.out.println("2. 👤  Add Patient");
-            System.out.println("3. 📅 Book Appointment");
-            System.out.println("4. 📋 View Appointments");
-            System.out.println("5. ❌ Cancel Appointment");
-            System.out.println("6. 🔍 Search Patients");
-            System.out.println("7. 💰 Generate Bill");
-            System.out.println("8. 👨‍⚕️ List Doctors");
-            System.out.println("9. 💾 Save Data");
-            System.out.println("0. 🚪 Exit");
+            System.out.println("1.  Add Doctor");
+            System.out.println("2.  Add Patient");
+            System.out.println("3.  Book Appointment");
+            System.out.println("4.  View Appointments");
+            System.out.println("5.  Cancel Appointment");
+            System.out.println("6.  Search Patients");
+            System.out.println("7.  Generate Bill");
+            System.out.println("8. ️  List Doctors");
+            System.out.println("9.  Save Data");
+            System.out.println("0.  Exit");
             System.out.print("Choose option: ");
 
             try {
